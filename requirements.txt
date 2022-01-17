@@ -1,0 +1,4 @@
+pdf2image==1.16.0
+Pillow==8.4.0
+PySide6==6.2.2.1
+shiboken6==6.2.2.1
